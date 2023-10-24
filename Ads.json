@@ -82,9 +82,9 @@
   "guides": [
 	{
 	 "image": "https://drive.google.com/uc?export=download&id=1SUUF5LtBvQe9SB-XytE9Hizgq64bT2_-",
-	 "title": "xxxxxxx",
-	 "text": "xxxxxxx",
-	 "text_two": "xxxxxxx",
+	 "title": "AN INTENSE STORY OF TRANSFORMATION",
+	 "text": "<p><br /></p><p>Discover an action-adventure experience with a carefully woven narrative, which presents the transformation of a rebellious young man into a Master Assassin with a tormented destiny. Meet characters who will shape Basim's future and perhaps hide their true nature...</p><p><br /></p>",
+	 "text_two": "<p><b>Invest in more tools early on :</b> Mirage places a smaller emphasis on skill trees than the last few Assassin's Creed games. When it comes to sneaking past guards, Basim's tools are the real star of the show, so it's recommended to focus on unlocking more as your first priority. You're given one tool unlock for free, and it's recommended to grab the sleeping darts first. The rest are unlocked through the middle skill tree</p><p><br /></p>",
 
 	 "isLocked": false,
 	 "id": 1,
@@ -96,9 +96,9 @@
 	},
 	{
 	 "image": "xxxxxxx",
-	 "title": "xxxxxxx",
-	 "text": "xxxxxxx",
-	 "text_two": "xxxxxxx",
+	 "title": "THE SUPREME ASSASSIN",
+	 "text": "<p><br /></p><p><b>Become</b> the most versatile Assassin in the history of the series. Explore the city in parkour and harness the widest assortment of tools yet. Accept contracts at Assassin offices, gather crucial clues, and discreetly eliminate your targets in more intense assassinations than ever before.</p>",
+	 "text_two": "<p><b>Use smoke bombs : </b>Smoke bombs are a great way to escape from combat or kill everyone in the smoke cloud for free. This tactic is so overpowered that it almost feels broken, so it's recommended to use it when necessary.</p><p><b>Visit general shops to buy outfit dyes :</b> Outfit dyes can help you blend into the crowd and stay unseen. It's recommended to visit general shops to buy them.</p>",
 
 	 "isLocked": true,
 	 "id": 2,
@@ -110,9 +110,9 @@
 	},
 	{
 	 "image": "xxxxxxx",
-	 "title": "xxxxxxx",
-	 "text": "xxxxxxx",
-	 "text_two": "xxxxxxx",
+	 "title": "AN IMMERSIVE AND LIVING CITY",
+	 "text": "<p><br /></p><p><b>Explore </b>an incredibly dense and vibrant city whose inhabitants react to your slightest gesture. Discover the secrets of four specific neighborhoods, from industrious Karkh to the round city with lush gardens. Witness surprising events and interact with historical figures who shaped Baghdad's golden age.</p>",
+	 "text_two": "<p><b>Sell your trinkets :</b> Trinkets can be sold for a good amount of money, so it's recommended to sell them to line your pockets.</p><p><b>Merchants are the best option for infiltration : </b>Most of Mirage's missions revolve around infiltrating a compound, and there are always multiple ways to do it. Study the exterior and you'll usually find a crumbly wall to exploit, but if there are merchants for hire outside the compound, consider paying them to help you get in.</p>",
 
 	 "isLocked": false,
 	 "id": 3,
@@ -124,9 +124,9 @@
 	},
 	{
 	 "image": "xxxxxxx",
-	 "title": "xxxxxxx",
-	 "text": "xxxxxxx",
-	 "text_two": "xxxxxxx",
+	 "title": "A TRIBUTE TO THE ORIGINAL GAME",
+	 "text": "<p><b><br /></b></p><p><b>Discover </b>a modern approach to the features and gameplay that have defined a top series for 15 years. Join Alamut, the legendary home of the Assassins who created the foundations of the Creed in this authentic homage to the game that started it all.</p>",
+	 "text_two": "<p><b>Try not to linger in crowded areas for too long while having notoriety :</b> Members of the public will begin to notice your familiar face and raise the alarm.</p><p><b>Go for the blowdart :</b> It's invaluable for taking enemies out from a distance, but it's also one of the few tools that are effective in combat.</p>",
 
 	 "isLocked": true,
 	 "id": 4,
@@ -138,9 +138,9 @@
 	},
 	{
 	 "image": "xxxxxxx",
-	 "title": "xxxxxxx",
-	 "text": "xxxxxxx",
-	 "text_two": "xxxxxxx",
+	 "title": "USE YOUR EAGLE TO GET A LEG UP",
+	 "text": "<p><b><br /></b></p><p><b>Use your eagle to get a leg up :</b> The eagle can be used to mark enemies, which is especially helpful for keeping track of enemies within restricted areas, allowing you to strategize your attack or stealth plan.</p>",
+	 "text_two": "<p><b>Invest in the merchant's discount early :</b> It's recommended to invest in the merchant's discount early to save money on purchases.</p><p><b>Every pile of hay is a potential graveyard :</b> Hay bales can be used to break your fall, but they can also be used to hide from enemies. However, be careful not to jump into a hay bale that already has a body in it.</p>",
 
 	 "isLocked": false,
 	 "id": 5,
@@ -152,9 +152,9 @@
 	},
 	{
 	 "image": "xxxxxxx",
-	 "title": "xxxxxxx",
-	 "text": "xxxxxxx",
-	 "text_two": "xxxxxxx",
+	 "title": "GATHER ANY VIEWPOINT",
+	 "text": "<p><b><br /></b></p><p><b>Gather any viewpoint you are even relatively close to :</b> This will make your life easier as you will have a better view of the area and can plan your route accordingly.</p>",
+	 "text_two": "<p><b>If there is no key in sight, come back later:</b> Sometimes Mirage can be at odds with its own sense of freedom. If you venture into an area that is associated with a specific quest, you may find that there is a door with a lock and no key in sight. In this case, it's recommended to come back later</p><p>Break the barricade securing the door by throwing your knife through a hole in the wall or a window with <b>wide spaces between the bars:</b> This is the trickiest one and a number of players are likely to stumble on it</p>",
 
 	 "isLocked": true,
 	 "id": 6,
