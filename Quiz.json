@@ -3,22 +3,22 @@
   "quizes": [
 	{
 		
-	 "question": "how many pyramides are in egypte?",
+	 "question": "What is the recommended first tool unlock in Assassin's Creed Mirage?",
       
-	 "answer_1": "Three pyramides",
-	 "answer_2": "four pyramides",
-	 "answer_3": "five pyramides",
+	 "answer_1": "Poison darts",
+	 "answer_2": "Throwing knives",
+	 "answer_3": "Sleeping darts",
 	 
-	 "correct": 1
+	 "correct": 3
       
 	},
 	{
 	  
-	 "question": "What is Choo Choo Charles?",
+	 "question": "What is the recommended early investment in Assassin's Creed Mirage?",
       
-	 "answer_1": "Spider Train",
-	 "answer_2": "Spider Man",
-	 "answer_3": "Spider Car",
+	 "answer_1": "Merchant's discount",
+	 "answer_2": "Health upgrades",
+	 "answer_3": "Weapon upgrades",
 	 
 
 	 "correct": 1
@@ -26,11 +26,11 @@
 	},
 	{
 	  
-	 "question": "What is 1X Bet",
+	 "question": "What is the benefit of outfit dyes in Assassin's Creed Mirage?",
       
-	 "answer_1": "A dating app",
-	 "answer_2": "A betting app",
-	 "answer_3": "A cooking app",
+	 "answer_1": "They provide additional weapon damage",
+	 "answer_2": "They allow the player to blend into the crowd and remain unseen",
+	 "answer_3": "They provide a higher chance of critical hits",
 	 
 
 	 "correct": 2
@@ -38,11 +38,11 @@
 	},
 	{
 	  
-	 "question": "Which one doesn't belong to Poppy Playtime?",
+	 "question": "What can players do with trinkets in Assassin's Creed Mirage?",
       
-	 "answer_1": "Huggy Wuggy",
-	 "answer_2": "Kissy Missy",
-	 "answer_3": "The Man From The Window",
+	 "answer_1": "None of the above",
+	 "answer_2": "Use them as weapons",
+	 "answer_3": "Sell them for a good amount of money",
 	 
 
 	 "correct": 3
@@ -50,23 +50,52 @@
 	},
 	{
 	  
-	 "question": "How many USLs does Real Madrid have?",
+	 "question": "Why should players avoid lingering in crowded areas for too long in Assassin's Creed Mirage?",
       
-	 "answer_1": "13 Champions Leage",
-	 "answer_2": "12 Champions Leage",
-	 "answer_3": "14 Champions Leage",
+	 "answer_1": "Members of the public may begin to notice your familiar face and raise the alarm",
+	 "answer_2": "They may get lost",
+	 "answer_3": "They may alert enemies",
 	 
 
-	 "correct": 3
+	 "correct": 1
       
 	},
+
+{
+	  
+	 "question": "How can hay bales be used in Assassin's Creed Mirage?",
+      
+	 "answer_1": "To hide from enemies",
+	 "answer_2": "To attack enemies",
+	 "answer_3": "To jump over obstacles",
+	 
+
+	 "correct": 1
+      
+	},
+
+
+
+	  {
+	  
+	 "question": "What is the benefit of gathering viewpoints in Assassin's Creed Mirage?",
+      
+	 "answer_1": "They provide extra weapons",
+	 "answer_2": "They provide a better view of the area, allowing the player to plan their route accordingly",
+	 "answer_3": "They give the player more health",
+	 
+
+	 "correct": 2
+      
+	},
+	  
 	{
 	 
-	 "question": "Which one is a programming language?",
+	 "question": "What is the benefit of using the eagle in Assassin's Creed Mirage?",
      
-	 "answer_1": "English",
-	 "answer_2": "Kotlin",
-	 "answer_3": "Arabic",
+	 "answer_1": "It can fly the player to different areas",
+	 "answer_2": "It can mark enemies and help with strategizing attacks or stealth plans",
+	 "answer_3": "It provides extra health",
 	 
 	 "correct": 2
       
